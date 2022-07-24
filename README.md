@@ -19,6 +19,9 @@
 - [x] 支持分享生成图片
 - [x] 支持推送到钉钉机器人
 
+## 警告
+
+部分古早代码使用了中文变量
 
 ## 开源项目鸣谢
 
@@ -30,9 +33,12 @@
 | LuaMarkdown|https://github.com/speedata/luamarkdown|This is a copy from http://www.frykholm.se/files/markdown.lua |
 | Gitkit|https://github.com/sudoskys/Gitpuller|LUA github api类库|
 | Yaml |https://github.com/search?q=YAML+java|Yaml so库|
-| Webdav |狸猫QQ群开源|狸猫|
-| 波纹点击实现 |pretend|Pretend|
-| 小笔记 |QQ群开源，笔记数据结构|未知|
+| Webdav |无公开仓库|狸猫|
+| 波纹点击实现 |无公开仓库|Pretend|
+| 小记事 |无公开仓库/笔记数据结构|Ayaka_Ago|
+| dingyi底部弹窗 |https://github.com/dingyi222666|dingyi|
+| Material_24dp |https://developers.google.com/fonts/docs/material_icons|Google|
+
 
 >由于 相关社区开源作者难以找寻，此表待修正。
 

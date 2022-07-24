@@ -1,3 +1,4 @@
+--github@sudoskys
 --基本
 require "import"
 import "android.app.*"
@@ -28,10 +29,12 @@ import"mods.home_runs"
 
 import "android.content.Context"
 import "android.net.ConnectivityManager"
-se="https://gitee.com/luo-ying2020/STUDY_mys/raw/master/".."monote/upda.md"
-es="http://hub.fastgit.org/luoying2024/Sakura-animation/raw/master/".."monote/upda.md"
+
+
+--se="https:/************/giaw/master/".."monote/upda.md"
+--es="ht**************/raw/master/".."monote/upda.md"
 --https://github.com/
-检测更新(se,es)
+--检测更新(se,es)
 
 --检测更新("https://wds.ecsxs.com/206855.html")
 
