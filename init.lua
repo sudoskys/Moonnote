@@ -1,0 +1,19 @@
+appname="月笔记"
+appver="2.0.1"
+appcode="21"
+appsdk="16"
+path_pattern="lua,md"
+packagename="com.luoying.notebook"
+theme="Theme_Material_Light"
+app_key=""
+app_channel="Official"
+developer="luoying"
+description="Note appuped"
+debugmode=true
+user_permission={
+  "ACCESS_NETWORK_STATE",
+  "ACCESS_WIFI_STATE",
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
