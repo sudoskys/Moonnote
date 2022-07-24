@@ -4,7 +4,6 @@
 
 
 <p align="center">
-<img src="https://jitpack.io/v/liangjingkanji/spannable.svg"/></a>
 <img src="https://img.shields.io/badge/language-lua-blue.svg"/>
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 <img src="https://img.shields.io/badge/Androlua+-5.0.19-blue"/></a>
