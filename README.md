@@ -59,6 +59,6 @@ Apache Licence也是对商业应用友好的许可。使用者也可以在需要
 
 #### Support
 
-如果你感觉这对你有帮助，可以试着我赞助我一点～
+无障碍赞助投喂
 
-[![s](https://img.shields.io/badge/Mianbaoduo-support-DB94A2)](https://mianbaoduo.com/o/Sky2023)
+[![s](https://img.shields.io/badge/Become-sponsor-DB94A2)](https://dun.mianbaoduo.com/@Sky0717)
