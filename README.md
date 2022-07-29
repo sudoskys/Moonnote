@@ -55,3 +55,10 @@ Apache Licence是著名的非盈利开源组织Apache采用的协议。该协议
 
 Apache Licence也是对商业应用友好的许可。使用者也可以在需要的时候修改代码来满足需要并作为开源或商业产品发布/销售。
 ```
+
+
+#### Support
+
+如果你感觉这对你有帮助，可以试着我赞助我一点～
+
+[![s](https://img.shields.io/badge/Mianbaoduo-support-DB94A2)](https://mianbaoduo.com/o/Sky2023)
