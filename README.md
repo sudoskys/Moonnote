@@ -61,4 +61,4 @@ Apache Licence也是对商业应用友好的许可。使用者也可以在需要
 
 无障碍赞助投喂
 
-[![s](https://img.shields.io/badge/Become-sponsor-DB94A2)](https://dun.mianbaoduo.com/@Sky0717)
+[![s](https://img.shields.io/badge/Become-sponsor-DB94A2)](https://afdian.net/a/Suki1077)
