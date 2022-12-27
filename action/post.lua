@@ -187,7 +187,7 @@ function dtro(key,text,atphone,token,isall)
   require "import"
   import"http"
   header={
-    ["User-Agent"]= "Mozilla/5.0 (Windows NT 7.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904/developer/luoying/xiaow3493@Gmail",
+    ["User-Agent"]= "Mozilla/5.0 (Windows NT 7.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904/developer",
     ["Content-Type"]="application/json"
   }
   Http.post(urld,data,cookie,"utf8",header,function(code,content)
